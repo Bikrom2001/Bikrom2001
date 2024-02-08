@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bikromroy2001" target="blank"><img src="https://img.shields.io/twitter/follow/bikromroy2001?logo=twitter&style=for-the-badge" alt="bikromroy2001" /></a> </p>
 
-- 🔭 I’m currently working on **amazon shopping**
+- 🔭 I’m currently working on **University Website & LMS Software**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://bikrom-roy.netlify.app/](https://bikrom-roy.netlify.app/)
 
