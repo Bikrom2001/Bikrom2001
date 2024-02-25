@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://bikrom-roy.netlify.app/](https://bikrom-roy.netlify.app/)
+- 👨‍💻 All of my projects [https://bikrom-roy.netlify.app/](https://bikrom-roy.netlify.app/)
   
 - 📫 How to reach me **bikromroy2001@gmail.com**
   
