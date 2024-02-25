@@ -5,7 +5,8 @@
 ### How to reach me: 
 <span align="center"> [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bikromroy200?mibextid=ZbWKwL) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bikromroy2001) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikrom-roy) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@BikromRoy) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://bikrom2001.netlify.app/)</span>
 
-<table align="left">
+<div> 
+<table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
@@ -30,14 +31,14 @@
   </td>
 </tr>
 </table>
+</div>
 
-<p>
-### Tools I work up on: 🛠
-### How to reach me: 
-### How to reach me: 
-### How to reach me: 
+### Languages I work up : 🛠
 
-</p>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
+
+### Tools I work up : 🛠
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bikrom2001&label=Profile%20views&color=0e75b6&style=flat" alt="bikrom2001" /> </p>
 
