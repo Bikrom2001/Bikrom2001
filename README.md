@@ -31,10 +31,13 @@
 </tr>
 </table>
 
+<div>
 ### Tools I work up on: 🛠
 ### How to reach me: 
 ### How to reach me: 
 ### How to reach me: 
+
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bikrom2001&label=Profile%20views&color=0e75b6&style=flat" alt="bikrom2001" /> </p>
 
