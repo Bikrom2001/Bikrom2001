@@ -72,15 +72,18 @@
 
 
 ### Stats Overview : :cyclone:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikrom2001&layout=compact&theme=material-palenight&hide=html,Tcl&show_icons=true&locale=en" alt="bikrom2001" /></p>
+
+<a href=''> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikrom2001&layout=compact&theme=material-palenight&hide=html,Tcl&show_icons=true&locale=en" alt="bikrom2001" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikrom2001&layout=compact&theme=material-palenight&hide=html,Tcl"/>
+</a>
 
 ### GitHub Highlights: :blossom:
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikrom2001&langs_count=5&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikrom2001&layout=compact&theme=material-palenight&hide=html,Tcl"/>
 </a>
 
 
