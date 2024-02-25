@@ -65,17 +65,24 @@
 
 ## My Github stats: 🐱
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikrom2001" alt="bikrom2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikrom2001&theme=dracula&no-bg=true&row=1" alt="bikrom2001" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikrom2001&label=Profile%20views&color=0e75b6&style=flat" alt="bikrom2001" /> </p>
 
 
 
 
+### Stats Overview : :cyclone:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikrom2001&layout=compact&theme=material-palenight&hide=html,Tcl&show_icons=true&locale=en" alt="bikrom2001" /></p>
 
+### GitHub Highlights: :blossom:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikrom2001&show_icons=true&locale=en" alt="bikrom2001" /></p>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikrom2001&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikrom2001&layout=compact&theme=material-palenight&hide=html,Tcl"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikrom2001&" alt="bikrom2001" /></p>
 
 <h2 align='left'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
