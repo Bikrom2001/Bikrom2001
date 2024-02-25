@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 💼 I’m currently working on **University Website & LMS Software**
+- 💼 I’m currently working on **LMS Software**
 
 - 🌱 I’m currently learning **Next JS**
 
