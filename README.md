@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React, JavaScript,MongoDB,HTML5, CSS, Bootstrap, Tailwind CSS,**
+- 💬 Ask me about **React, JavaScript,MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://bikrom-roy.netlify.app/](https://bikrom-roy.netlify.app/)
   
