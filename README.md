@@ -9,15 +9,17 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 💼 I’m currently working on **University Website & LMS Software**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Ask me about **React, JavaScript,MongoDB,HTML5, CSS, Bootstrap, Tailwind CSS,**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 👨‍💻 All of my projects are available at [https://bikrom-roy.netlify.app/](https://bikrom-roy.netlify.app/)
   
-- ⚡ Fun fact **Call me as KD**
+- 📫 How to reach me **bikromroy2001@gmail.com**
+  
+- ⚡ Fun fact **I am Funny**
 
 </td>
 <td width="50%" align="center">
